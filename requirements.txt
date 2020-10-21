@@ -1,0 +1,6 @@
+streamlit
+pyautogui
+webbrowser
+datetime
+time
+base64
