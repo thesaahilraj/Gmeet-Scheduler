@@ -1,3 +1,4 @@
 streamlit
 pyautogui
 datetime
+gunicorn==20.0.4
