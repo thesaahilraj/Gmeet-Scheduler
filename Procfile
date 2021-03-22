@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-level debug
+web: sh setup.sh && streamlit run app.py
